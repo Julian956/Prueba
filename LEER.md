@@ -29,7 +29,7 @@ JSON PARA USAR
     },
     "image": "https://picsum.photos/200/300",
     "description": "Description for product 1"
-  },
+  },//////////////////////////////////
   {
     "pid": 3,
     "title": "Product 3",
@@ -40,7 +40,7 @@ JSON PARA USAR
     },
     "image": "https://picsum.photos/250/400",
     "description": "Description for product 3"
-  },
+  },///////////////////////////////////
   {
     "pid": 4,
     "title": "Product 4",
@@ -51,7 +51,7 @@ JSON PARA USAR
     },
     "image": "https://picsum.photos/300/300",
     "description": "Description for product 4"
-  },
+  },/////////////////////////////////////
   {
     "pid": 5,
     "title": "Product 5",
@@ -62,7 +62,7 @@ JSON PARA USAR
     },
     "image": "https://picsum.photos/350/500",
     "description": "Description for product 5"
-  },
+  },///////////////////////////////////////////
   {
     "pid": 6,
     "title": "Product 6",
@@ -73,7 +73,7 @@ JSON PARA USAR
     },
     "image": "https://picsum.photos/400/400",
     "description": "Description for product 6"
-  },
+  },//////////////////////////////////////
   {
     "pid": 7,
     "title": "Product 7",
@@ -84,7 +84,7 @@ JSON PARA USAR
     },
     "image": "https://picsum.photos/450/350",
     "description": "Description for product 7"
-  },
+  },///////////////////////////////////////
   {
     "pid": 8,
     "title": "Product 8",
@@ -95,7 +95,7 @@ JSON PARA USAR
     },
     "image": "https://picsum.photos/500/300",
     "description": "Description for product 8"
-  },
+  },////////////////////////////////////////////
   {
     "pid": 9,
     "title": "Product 9",
@@ -106,7 +106,7 @@ JSON PARA USAR
     },
     "image": "https://picsum.photos/550/400",
     "description": "Description for product 9"
-  },
+  },////////////////////////////////////////
   {
     "pid": 10,
     "title": "Product 10",
