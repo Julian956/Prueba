@@ -1,6 +1,6 @@
 java 20///
 
-Crear Base de datos en Mysql ///
+Crear Base de datos en Mysql llamada Tienda///
 
 Tablas auto creadas ///
 
