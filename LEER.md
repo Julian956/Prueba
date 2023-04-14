@@ -6,3 +6,4 @@ Tablas auto creadas ///
 
 Cambiar usuario y contraseña ///
 
+Path (/nexsys/v1/categorie/")/////("/nexsys/v1/products/")
